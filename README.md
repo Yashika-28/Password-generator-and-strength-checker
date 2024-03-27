@@ -1,0 +1,1 @@
+The Password Generator and Strength Checker crafts robust, personalized passwords for users while enabling them to assess the strength of their existing passwords. Moreover, it provides users with the option to securely store all their passwords in one place.
